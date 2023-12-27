@@ -17,4 +17,10 @@
 - ### Notepad
 Notepad is a simple application built with Dart. It harnesses the power of Flutter to provide a smooth and responsive user experience. In addition, Notepad uses SQFLite, a SQLite library for Flutter, to efficiently manage data storage and retrieval.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=notepad&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/notepad)
+
+
+- ### Calculator
+This app has been designed with simplicity and effectiveness in mind, aiming to meet the fast-paced demands of everyday life without complications.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=calculator_app&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/calculator_app)
+
