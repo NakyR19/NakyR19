@@ -19,8 +19,8 @@ Notepad is a simple application built with Dart. It harnesses the power of Flutt
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=notepad&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/notepad)
 
-- ### Calculator
-This app has been designed with simplicity and effectiveness in mind, aiming to meet the fast-paced demands of everyday life without complications.
+- ### MineWeeper
+This is a Minesweeper game, developed with Dart using Flutter. The game incorporates good development practices, such as the use of 'Provider' for effective state management, 'ColorScheme' for harmonious visual design and 'AppRoutes' for fluid and intuitive navigation. Every aspect of the game has been designed to provide an optimized user experience.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=calculator_app&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/calculator_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=mineweeper&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/mineweeper)
 
