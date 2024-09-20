@@ -2,7 +2,7 @@
 
 ## 💨 About Me:
 - 🔭 I’m currently working with dart/flutter
-- 🌱 I’m also learning C
+- 🌱 I’m also learning Java
 - ⚡ Fun fact: I'm just another Latin American boy
 ## 🔧 Skills: 
 - Languages: Dart, JavaScript, C.
