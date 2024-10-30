@@ -1,12 +1,12 @@
 # Hi there! I'm Rafael 👋
 
 ## 💨 About Me:
-- 🔭 I’m currently working with dart/flutter
-- 🌱 I’m also learning Java
+A passionate software developer and an undergraduate in computer science based in Brazil.
+I'm 20 yo.
 
 ## 🔧 Skills: 
-- Languages: Dart.
-- Frameworks & Technologies: Flutter.
+* **Languages**:<br><img src="https://skillicons.dev/icons?i=dart,java" />
+* **Frameworks & Technologies**:<br><img src="https://skillicons.dev/icons?i=flutter" />
 
 <div>
 <a href="https://github.com/NakyR19">
@@ -25,7 +25,7 @@ Campo Minado construído em Dart utilizando o Flutter.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=mineweeper&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/mineweeper)
 
 - ### Cata-Frutas
-Jogo cata-frutas construído puramente em Java utilizando Swing, 
+Jogo cata-frutas construído puramente em Java utilizando Swing.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=cata_frutas&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/cata_frutas)
 
