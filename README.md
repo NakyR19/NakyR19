@@ -5,7 +5,7 @@
 - 🌱 I’m also learning Java
 
 ## 🔧 Skills: 
-- Languages: Dart, JavaScript, C.
+- Languages: Dart.
 - Frameworks & Technologies: Flutter.
 
 <div>
@@ -15,12 +15,17 @@
   
 ## 🪐Project:
 - ### Notepad
-Notepad is a simple application built with Dart.
+Aplicativo de bloco de notas construído em dart utilizando flutter.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=notepad&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/notepad)
 
-- ### MineWeeper
-This is a Minesweeper game, developed with Dart using Flutter.
+- ### Minesweeper
+Campo Minado construído em Dart utilizando o Flutter.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=mineweeper&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/mineweeper)
+
+- ### Cata-Frutas
+Jogo cata-frutas construído puramente em Java utilizando Swing, 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NakyR19&repo=cata_frutas&theme=transparent&title_color=e6e6e6&text_color=e6e6e6&icon_color=eb233b&border_color=e6e6e6)](https://github.com/NakyR19/cata_frutas)
 
